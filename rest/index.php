@@ -7,7 +7,7 @@
 
 </head>
 <body>
-<div style="width:700px; margin:0 auto;">
+
 
 <h3>Demo Create and Consume Simple REST API in PHP</h3>   
 <form action="" method="POST">

@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>Demo Create and Consume Simple REST API in PHP </title>
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<title>REST API in PHP </title>
 </head>
 <body>
 

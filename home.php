@@ -16,7 +16,7 @@
 if (isset($_POST['user_id']) && $_POST['user_id']!="") 
 {
 	$user_id = $_POST['user_id'];
-	$url = "http://localhost/api/api/".$user_id;
+	$url = "http://localhost/api/".$user_id;
 	
 	$client = curl_init($url);
 	curl_setopt($client,CURLOPT_RETURNTRANSFER,true);

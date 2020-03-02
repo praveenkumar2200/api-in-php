@@ -3,8 +3,8 @@
 ?>
 <html>
 <head>
-<title>Demo Create and Consume Simple REST API in PHP - AllPHPTricks.com</title>
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<title>Demo Create and Consume Simple REST API in PHP</title>
+
 </head>
 <body>
 <div style="width:700px; margin:0 auto;">
